@@ -1,3 +1,3 @@
 #!/usr/bin/python 
 
-print "this is great!"
+print "This is great!"
