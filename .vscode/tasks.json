@@ -23,7 +23,7 @@
 	// args is the HelloWorld program to compile.
 	"args": [
 		"install",
-		"github.com/joewarrenmeeks/homeautomation/golang/hello"
+		"github.com/joewarrenmeeks/homeautomation/golang/webservice"
 	]
 }
 
