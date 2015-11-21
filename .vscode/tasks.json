@@ -18,12 +18,13 @@
 	"isBuildCommand": true,
 
 	// Show the output window only if unrecognized errors occur.
-	"showOutput": "silent",
+	"showOutput": "never",
 
 	// args is the HelloWorld program to compile.
-	"args": ["install github.com/joewarrenmeeks/homeautomation/golang/hello"],
-
-
+	"args": [
+		"install",
+		"github.com/joewarrenmeeks/homeautomation/golang/hello"
+	]
 }
 
 // A task runner that calls the Typescript compiler (tsc) and
