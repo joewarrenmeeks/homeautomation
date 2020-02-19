@@ -2,4 +2,5 @@
 
 Project to learn Golang, Python and Javascript.
 
-# testing multiple authors
+# testing multiple committers 
+# this is the other committer
